@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/my-react-final-project/static/css/main.9246de73.css",
-    "main.js": "/my-react-final-project/static/js/main.a372d157.js",
-    "static/js/453.4535a7f7.chunk.js": "/my-react-final-project/static/js/453.4535a7f7.chunk.js",
-    "static/media/fes-logo.png": "/my-react-final-project/static/media/fes-logo.75a3b889d6cbc2c4ae55.png",
-    "static/media/bg-movie-blur.png": "/my-react-final-project/static/media/bg-movie-blur.58a52473d0ca6d00f9db.png",
-    "index.html": "/my-react-final-project/index.html",
-    "main.9246de73.css.map": "/my-react-final-project/static/css/main.9246de73.css.map",
-    "main.a372d157.js.map": "/my-react-final-project/static/js/main.a372d157.js.map",
-    "453.4535a7f7.chunk.js.map": "/my-react-final-project/static/js/453.4535a7f7.chunk.js.map"
+    "main.css": "/react-final-project/static/css/main.a459e2fd.css",
+    "main.js": "/react-final-project/static/js/main.05b982cf.js",
+    "static/js/453.4535a7f7.chunk.js": "/react-final-project/static/js/453.4535a7f7.chunk.js",
+    "static/media/fes-logo.png": "/react-final-project/static/media/fes-logo.75a3b889d6cbc2c4ae55.png",
+    "static/media/bg-movie-blur.png": "/react-final-project/static/media/bg-movie-blur.58a52473d0ca6d00f9db.png",
+    "index.html": "/react-final-project/index.html",
+    "main.a459e2fd.css.map": "/react-final-project/static/css/main.a459e2fd.css.map",
+    "main.05b982cf.js.map": "/react-final-project/static/js/main.05b982cf.js.map",
+    "453.4535a7f7.chunk.js.map": "/react-final-project/static/js/453.4535a7f7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9246de73.css",
-    "static/js/main.a372d157.js"
+    "static/css/main.a459e2fd.css",
+    "static/js/main.05b982cf.js"
   ]
 }
